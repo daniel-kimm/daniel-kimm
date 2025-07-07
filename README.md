@@ -1,4 +1,4 @@
-Hey! I'm currently a student at Northwestern University. Check out my portfolio at https://danieldk.im/
+Hey! I'm currently a student at Northwestern University. Check out my portfolio at https://www.danieldk.im/
 
 <!--
 **daniel-kimm/daniel-kimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
