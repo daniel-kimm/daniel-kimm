@@ -1,4 +1,8 @@
-Hey! I'm currently a student at Northwestern University. Check out my portfolio at https://www.danieldk.im/
+Hi! I'm currently a student at Northwestern University.
+
+• Learn more about me: https://www.danieldk.im/
+• Currently working on: Alto, an AI voice email assistant
+• My LinkedIn: https://www.linkedin.com/in/daniel-kimm/
 
 <!--
 **daniel-kimm/daniel-kimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
