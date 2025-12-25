@@ -1,4 +1,3 @@
-hi! i'm currently a student at northwestern university majoring in computer science and art alongside the segal design certificate.
+hi! i'm daniel, and i'm currently studying cs and art at northwestern university.
 
-* learn more about me: https://www.danieldk.im/
-* my linkedin: https://www.linkedin.com/in/daniel-kimm/
+you learn a bit more about me at: https://www.danieldk.im/
